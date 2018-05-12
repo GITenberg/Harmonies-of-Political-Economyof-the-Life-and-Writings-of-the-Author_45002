@@ -1,0 +1,39 @@
+_repo: Harmonies-of-Political-Economyof-the-Life-and-Writings-of-the-Author_45002
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stirling, Patrick James
+    alias: Stirling, P. J. (Patrick James)
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '42606'
+    url: http://www.gutenberg.org/2009/agents/42606
+covers:
+- cover_type: archival
+  image_path: 45002-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Claude Frédéric
+    - Bastiat, Frederic
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+title: "Harmonies of Political Economy\r\nTranslated from the Third French Edition,\
+  \ with a Notice of the Life and Writings of the Author"
+url: http://www.gutenberg.org/ebooks/45002
